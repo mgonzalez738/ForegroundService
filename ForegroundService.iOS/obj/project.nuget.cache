@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7ZjZy3c9GiAW2FkHddnU9F5NU5p6pajNSxdd3yTKfkY0hgnEVYZSugX4ugIJlwoRJYU3UsxSJLmwUhzTKNyXg==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\ForegroundService\\ForegroundService.iOS\\ForegroundService.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tincho\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tincho\\.nuget\\packages\\xamarin.essentials\\1.6.0-pre3\\xamarin.essentials.1.6.0-pre3.nupkg.sha512",
+    "C:\\Users\\Tincho\\.nuget\\packages\\xamarin.forms\\5.0.0.1558-pre3\\xamarin.forms.5.0.0.1558-pre3.nupkg.sha512"
+  ],
+  "logs": []
+}

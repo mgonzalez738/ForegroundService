@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dj++R/Y3QIPlr82EUKmE8scusin+NqgQwJWsOe/QhHSVWBU03KgjJ+crdy1owAGyQ6B2pA7Nbfv1MoqtXboCww==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\ForegroundService\\ForegroundService\\ForegroundService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tincho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tincho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tincho\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tincho\\.nuget\\packages\\xamarin.essentials\\1.6.0-pre3\\xamarin.essentials.1.6.0-pre3.nupkg.sha512",
+    "C:\\Users\\Tincho\\.nuget\\packages\\xamarin.forms\\5.0.0.1558-pre3\\xamarin.forms.5.0.0.1558-pre3.nupkg.sha512"
+  ],
+  "logs": []
+}
